@@ -16,6 +16,7 @@ This repository contains a Python script for performing ETL (Extract, Transform,
     - [Inserting Data from CSV](#inserting-data-from-csv)
 4. [Contributing](#contributing)
 5. [License](#license)
+   This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Getting Started
 
@@ -198,9 +199,6 @@ The code generates various output, including summary statistics, data visualizat
 The CLV modeling code in this repository is a general framework and may require customization to fit specific business needs and data structures. Consider consulting with data analysts and domain experts to adapt the code for your use case.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 **MIT License**
 
 Copyright (c) 2023 Viktoria Aghabekyan
